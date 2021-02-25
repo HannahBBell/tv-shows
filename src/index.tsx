@@ -2,11 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import Apps from './App';
+import SearchBar from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Apps />
+    <SearchBar />
     <div>
       <a href="https://www.tvmaze.com/">TVMaze</a>
     </div>
