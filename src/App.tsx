@@ -1,7 +1,6 @@
 import {useState} from 'react';
 import './App.css';
 import episodes from './episodes.json';
-import './App.css';
 
 interface EpisodeTypes {
     id: number;
